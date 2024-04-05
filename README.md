@@ -39,4 +39,4 @@
 
 ## ライセンス
 
-このプロジェクトは[MIT License](https://github.com/superdoccimo/ayumi/blob/main/LICENSE)の下で公開されています。"# ayumi" 
+このプロジェクトは[MIT License](https://github.com/superdoccimo/ayumi/blob/main/LICENSE)の下で公開されています。
