@@ -36,7 +36,3 @@
 ## 貢献方法
 
 このプロジェクトへの貢献や改善提案がある場合は、[Issueを作成](https://github.com/superdoccimo/ayumi/issues)するか、[Pull Request](https://github.com/superdoccimo/ayumi/pulls)を送ってください。
-
-## ライセンス
-
-このプロジェクトは[MIT License](https://github.com/superdoccimo/ayumi/blob/main/LICENSE)の下で公開されています。
