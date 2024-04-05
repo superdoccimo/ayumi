@@ -28,7 +28,7 @@
 ## 参考資料
 
 - **ブログ記事**: [初回投稿：2024年4月4日](https://minokamo.tokyo/2024/04/04/7075/)
-  - このブログ記事では、VBAマクロの作成過程と、その活用方法について詳しく解説しています。
+  - このブログ記事でも、その活用方法について詳しく解説しています。
 
 - **YouTube動画**: [初回投稿：2024年4月4日](https://youtu.be/owSIolD2nu8)
   - YouTubeでの解説動画では、実際にこのスクリプトを使用して歩み値を取得する様子を示しています。
@@ -39,4 +39,4 @@
 
 ## ライセンス
 
-このプロジェクトは[MIT License](https://github.com/superdoccimo/ayumi/blob/main/LICENSE)の下で公開されています。"# ayumi" 
+このプロジェクトは[MIT License](https://github.com/superdoccimo/ayumi/blob/main/LICENSE)の下で公開されています。
